@@ -1,4 +1,4 @@
 <!-- _sidebar.md -->
 
 * [Home](/)
-* [Guide](guide.md "The greates guide in the world")
+* [Pre Course](precourse/guide.md "Pre course fulbright - Cicle III April - July")

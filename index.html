@@ -13,7 +13,11 @@
   <script>
     window.$docsify = {
       loadSidebar: true,
-      subMaxLevel: 2
+      alias: {
+      '/.*/_sidebar.md': '/_sidebar.md'
+    },
+      subMaxLevel: 4,
+      loadNavbar: true,
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
