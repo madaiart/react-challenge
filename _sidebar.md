@@ -1,7 +1,5 @@
 <!-- _sidebar.md -->
 
-**Fulbright life**
-
 - [*Home*](/)
 
 - [**Pre Course**](precourse/introduction.md "Pre course fulbright - Cicle III April - July")

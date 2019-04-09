@@ -1,7 +1,6 @@
 <!-- Nav baar -->
-* *Important*
+* **Improve skills**
 
-  * [Fulbright Docs](fulbrightDocs.md)
-  * [Apps](apps.md)
-  * [Movies](movies.md)
-  * [Books](books.md)
+  * [:iphone:    Apps](apps.md)
+  * [:tv:    Movies](movies.md)
+  * [:book:    Books](books.md)
