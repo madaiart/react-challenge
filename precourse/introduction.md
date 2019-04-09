@@ -1,5 +1,5 @@
-# this is the guide menú
+# General Information
 
-## First Secction
+## About this page {docsify-ignore}
 
-> the first part
+> Building content

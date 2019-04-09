@@ -1,5 +1,5 @@
 <!-- Nav baar -->
-* Important
+* *Important*
 
   * [Fulbright Docs](Information/fulbrightDocs.md)
   * [Apps](Information/apps.md)
