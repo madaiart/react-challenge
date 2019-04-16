@@ -72,7 +72,7 @@ _Thursday, 11 April 2019_
 4. Read the first section of the lecture. Read the first lecture and aswer the questions.
 
 ### Homeworks
--[X] For that class the reading section we didn't finished. Sofia tell us that these task will be finish the next day.
+- [X] For that class the reading section we didn't finished. Sofia tell us that these task will be finish the next day.
 
 ## 5th School day
 _Friday, 12 April 2019_
