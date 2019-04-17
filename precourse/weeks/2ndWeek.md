@@ -10,7 +10,7 @@ _Monday, 15 April 2019_
 ## 7th School day
 _Tuesday, 16 April 2019_
 
-> This day I forget my Card ID and the guard couldn't permit me enter to the Academy :cry:
+<!-- > This day I forget my Card ID and the guard couldn't permit me enter to the Academy :cry: -->
 
 ### Class Activities
 
