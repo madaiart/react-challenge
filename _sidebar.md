@@ -8,4 +8,4 @@
         * [2nd Week](precourse/weeks/2ndWeek.md "Second school week")
   
 - [**Reading Books**](readingBooks/Indice.md "This all books that I have read")
-  - [Chemical Secret - Tim Vicary](readningBooks/chemicalSecret.md)
+  - [Chemical Secret - Tim Vicary](readingBooks/chemicalSecret.md)
