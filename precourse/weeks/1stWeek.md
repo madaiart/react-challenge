@@ -21,7 +21,7 @@ After that, she give us a litle task. The task was write in a small piece of pap
     * [X] [Prep Course Welcome](https://www.fulbright.org.ec/imagenes/CURRENT_STUDENTS_%20WEB_%20PAGE/PREP_COURSE_WELCOME_TO_FULBRIGHT/WelcomeFulbrightCycle22019.pdf)
     * [X] [Honor Code](https://www.fulbright.org.ec/imagenes/CURRENT_STUDENTS_%20WEB_%20PAGE/UPDATED_HONOR_CODE/HonorCode2019.pdf)
     * [X] [Letter to Students](https://www.fulbright.org.ec/imagenes/CURRENT_STUDENTS_%20WEB_%20PAGE/UPDATED_HONOR_CODE/LettertoStudents2019.pdf)
-
+________________________________________
 ## 2nd School day
 _Tuesday, 9 April 2019_
 
@@ -33,6 +33,7 @@ _Tuesday, 9 April 2019_
 ### Homeworks
 - [X] In the book :notebook: review the information about Present Simple. This information is in the **48,49 pages.**
 
+________________________________________
 ## 3rd School day
 _Wednesday, 10 April 2019_
 ### Class Activities
@@ -61,7 +62,7 @@ The simple present is formed by:
 
 > After a few discussion we did the 53,54,55 tasks in the book.
 
-
+________________________________________
 ## 4th School day
 _Thursday, 11 April 2019_
 ### Class Activities
@@ -74,6 +75,7 @@ _Thursday, 11 April 2019_
 ### Homeworks
 - [X] For that class the reading section we didn't finished. Sofia tell us that these task will be finish the next day.
 
+________________________________________
 ## 5th School day
 _Friday, 12 April 2019_
 ### Class Activities
