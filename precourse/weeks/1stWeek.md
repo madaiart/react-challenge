@@ -85,4 +85,5 @@ After finish the task. The teacher told us that we had the oportunity for pick u
 **Adjetives a or an**
 1. We use **a** if the next sound **isn't** like a vowel or if the next word starts with a consonant. For example: **a ho**tel, **a chief**, a **pencil**, **a u**niversity, etc.
 2. We use **an** if the next sound **is** like a vowel or if the next word starts with a vowel. For example: **an ho**ur, **an umbrella**, an **apple**, etc.  
+
 > The pronunciation of these words are linked like an umbrella. it sounds *anumbrella*

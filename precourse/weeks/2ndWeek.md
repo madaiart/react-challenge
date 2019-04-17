@@ -3,6 +3,10 @@
 _Monday, 15 April 2019_
 
 ### Class Activities
+The class started reviewing the Friday homework. At the same time we was chatting about __What do you do every day?__
+
+[curso-ingles.com](https://www.curso-ingles.com/en/learn/courses/advanced-level/collocations-and-expressions/delexical-verbs)
+[British Council](https://learnenglish.britishcouncil.org/english-grammar/delexical-verbs-have-take-make-and-give)
 
 ### Homework
 - [X] Write 10 noncountable nouns that there isn't in the book.
