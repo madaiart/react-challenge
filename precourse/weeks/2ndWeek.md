@@ -27,14 +27,6 @@ I have (**have, some, a lot of**) advice for my student :heavy_check_mark:
 2. No numbers before
 3. No are *(to be)*
 
-There are a few categories of uncountable nouns, foward are all of them:
-
-| a  | b  | c  | d  | e  |
-|---|---|---|---|---|
-| **a**  |  a | x  |   d|e   |
-| **b**  |  a |  x |  d | e  |
-| **b**  |  a |   x| d  |  e |
-
 ### Homework
 - [X] Write 10 noncountable nouns that there isn't in the book.
   
@@ -44,13 +36,13 @@ _Tuesday, 16 April 2019_
 
 <!-- > This day I forget my Card ID and the guard couldn't permit me enter to the Academy :cry: -->
 :clock530:
+*I was absent this day*
 
 ### Class Activities
 Read the second secction and aswer the sentences.
 ### Homework
 
 - [X] :ok_hand: Study the page 8|70 of the book.
-
 ________________________________________
 ## 8th School day
 _Wednesday, 17 April 2019_
@@ -68,14 +60,17 @@ Finished that task. We shared and compare the findings. Then the teacher gave us
 That was all for today.
 
 ### Homework
-- [ ] Answer the sentences about the second reading section
-- [ ] Review the page nine of the book **few a litle things**
+- [X] Answer the sentences about the second reading section
+- [x] Review the page nine of the book **few a litle things**
 
 ________________________________________
 ## 9th School day
 _Thursday, 18 April 2019_
 
 ### Class Activities
+We practiced the **few little many much a lot of some a few and a many** words in the text book 
+we did the activities 6,7,8,9.
 
 ### Homework
+- [ ] Write 5 sentences with few and 5 with little with each respectives answers.
 
