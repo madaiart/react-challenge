@@ -11,6 +11,7 @@
 *  **Miranda, Jane, Nigel** are Christine friends.
 *  **doctor** are the ones who treat the John Ducan illness
 *  **Simon MacDonal** Christine fiance
+*  **Petter and Sussan** Simon and Christins friends.
 
 ## Chapter One - A new start
 Jhon Ducan visited the David Wilson's company. He was looking for a job. When he entered to the stay room. He looked to David the CEO of the company and Mary the best chemist that worked here. They had a chat about Jonh's curriculum. David noticed that John stops work as a biologist for 7 years. For that time John explined that he was working with his wife. She was a famous sailor pheraps she had a tragedy in the sea and she died.
@@ -39,7 +40,12 @@ Mary and Jhon had meeting for discuss about his went away for the company becaus
 The seals' deseas was going get worse. Each time more and more seals babies got died. The near people speculate. Someone says that is for the factory, another say this is for the food that they eat. And some researchers begun to investigante the extrain desease. Meanwile the weeding was happening. After the celebration they went to the big John's house. There was a biggest house for the party. All people ejoied and drink a lot for her happiness.
 
 ## Chapter nineth - I don't believe you
+Some months after the weeding the Jonh's doughter confront his and they started chatting about the waste products in the company. Because the information about the Simon's information is true. The waste products cause the dessease in the seals. Simon was woking on that case for many years and the probe was coming in. Christine asked to his father about the information sended to the local news. She said why CEO Wilson write the critizm letter and you don't write enything about that. You are a scientist. John asnwered saying. The waste products aren't dangerous for the animal I was probing that for many years with my experiments. Also, nobady drinks water from the mounth river.
 
+## Chapter thenth - Greenworld
+When John went to Scotland to see Mary, Christine and Simon arrive at John's house. They get the boat and sail for the river. The went upstream the river until cought the waste pipe paint factory. Petter took several strong bags with cement and throw the pipes down. the aim was close that pipe. After that two thing happened. A man ran out the factory and a strong wind move the sails and hits the back Christine head. Then the sail turn down into the water. Simon, Susan and Petter was fighted with the sail trying to push it on the air. Then Simmon saw a body floating downstream the river. That body was Christine she was drowning, Simmon swing so fast as he could but when he cought her. He found her head backwarsds, lifless and she is not breathing. then after a ferous and grand battle with the river they could go to the ground. He countinues blowing in her mouth trying take her to live. Finally she begans to breath. When Chrtistine open her eyes, Simon asked if she is ok. But she was weak and she couldn't speak loudly.
+
+## Chapter eleventh - The Public Enquiry
 
 
 ## Unkown words
@@ -64,6 +70,17 @@ The seals' deseas was going get worse. Each time more and more seals babies got 
 5. **field:** Meaning.
 5. **supper:** Meaning.
 5. **sawage:** Meaning.
-5. **word:** Meaning.
-5. **word:** Meaning.
-5. 
+5. **frightening:** Meaning.
+6. **Enquiry:** Meaning.
+7. **shouted:** Meaning.
+8. **drowning:** Meaning.
+9. **onto:** Meaning.
+10. **caught hold:** Meaning.
+11. **Hurriedly:** Meaning.
+12. **backwards:** Meaning.
+13. **shiver:** Meaning.
+14. **Enquiry:** Meaning.
+15. **Enquiry:** Meaning.
+16. **Enquiry:** Meaning.
+17. **Enquiry:** Meaning.
+18. 
