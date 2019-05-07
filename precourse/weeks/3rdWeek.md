@@ -22,7 +22,8 @@ ________________________________________
 _Wednesday, 24 April 2019_
 
 ### Class Activities
-
+- Work in book and listening section
+<!-- - TODO put the record audio -->
 
 ### Homework
 

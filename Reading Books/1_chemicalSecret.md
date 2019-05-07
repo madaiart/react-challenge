@@ -46,6 +46,12 @@ Some months after the weeding the Jonh's doughter confront his and they started 
 When John went to Scotland to see Mary, Christine and Simon arrive at John's house. They get the boat and sail for the river. The went upstream the river until cought the waste pipe paint factory. Petter took several strong bags with cement and throw the pipes down. the aim was close that pipe. After that two thing happened. A man ran out the factory and a strong wind move the sails and hits the back Christine head. Then the sail turn down into the water. Simon, Susan and Petter was fighted with the sail trying to push it on the air. Then Simmon saw a body floating downstream the river. That body was Christine she was drowning, Simmon swing so fast as he could but when he cought her. He found her head backwarsds, lifless and she is not breathing. then after a ferous and grand battle with the river they could go to the ground. He countinues blowing in her mouth trying take her to live. Finally she begans to breath. When Chrtistine open her eyes, Simon asked if she is ok. But she was weak and she couldn't speak loudly.
 
 ## Chapter eleventh - The Public Enquiry
+After Jhon's backs. The Public Enquiry was orginzed to confirm what dangerous are the factoy's waste products. Before the Enquiere The paint factory CEO remembered John that He didn't speak all the true because all people must lost their jobs. In the Enquire de lawer ask some easy questions about the factory like. what activities they do? how care theirself at work? are the chemicals dangerous? and other similars question. But then he asked for the waste products. Jhon's speaks all about the process of the wast products and he allways say that those never will be dangerous for the people because the quantity are few just 2 parts per million. Some periodist ask if some one dring water of the river what will happen?. For that question John say that there isn't dangerous. But the man put over his desk a news about his doughter drowing into the river. John's couldnt believe that because he was traveling to Scotland that time. The lawer ask again if those waste products are dngerous. John was shock, finally he say yes all of them are dangerous.
+
+After the Equiry the paint facory was closed and Jhon gets poor, she only was hopping that his daugther babie was safe.
+
+**the end...**
+
 
 
 ## Unkown words
@@ -79,8 +85,3 @@ When John went to Scotland to see Mary, Christine and Simon arrive at John's hou
 11. **Hurriedly:** Meaning.
 12. **backwards:** Meaning.
 13. **shiver:** Meaning.
-14. **Enquiry:** Meaning.
-15. **Enquiry:** Meaning.
-16. **Enquiry:** Meaning.
-17. **Enquiry:** Meaning.
-18. 
