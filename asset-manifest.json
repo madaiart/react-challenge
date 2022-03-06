@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/react-challenge/static/css/main.073c9b0a.css",
-    "main.js": "/react-challenge/static/js/main.7c74614e.js",
+    "main.css": "/react-challenge/static/css/main.a023d092.css",
+    "main.js": "/react-challenge/static/js/main.7c1d8197.js",
     "static/js/787.dfc11a1a.chunk.js": "/react-challenge/static/js/787.dfc11a1a.chunk.js",
+    "static/media/ride.wav": "/react-challenge/static/media/ride.48f8aa79712795a4cff3.wav",
+    "static/media/crash.wav": "/react-challenge/static/media/crash.56ef93583433abecd072.wav",
+    "static/media/snare.wav": "/react-challenge/static/media/snare.a2686341b6ce341f8fd3.wav",
+    "static/media/clap.wav": "/react-challenge/static/media/clap.bc9630fef42f1768fd29.wav",
+    "static/media/kick.wav": "/react-challenge/static/media/kick.1095a4b9fb4612d9952c.wav",
+    "static/media/openhat.wav": "/react-challenge/static/media/openhat.d849fe2397327177e5df.wav",
+    "static/media/tom.wav": "/react-challenge/static/media/tom.605ef9e2793e9fe8cfd0.wav",
+    "static/media/closedhat.wav": "/react-challenge/static/media/closedhat.c3dc6caafe6514ef4d83.wav",
+    "static/media/rimshot.wav": "/react-challenge/static/media/rimshot.d2044fffd431c00c7430.wav",
     "static/media/logo.svg": "/react-challenge/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-challenge/index.html",
-    "main.073c9b0a.css.map": "/react-challenge/static/css/main.073c9b0a.css.map",
-    "main.7c74614e.js.map": "/react-challenge/static/js/main.7c74614e.js.map",
+    "main.a023d092.css.map": "/react-challenge/static/css/main.a023d092.css.map",
+    "main.7c1d8197.js.map": "/react-challenge/static/js/main.7c1d8197.js.map",
     "787.dfc11a1a.chunk.js.map": "/react-challenge/static/js/787.dfc11a1a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.7c74614e.js"
+    "static/css/main.a023d092.css",
+    "static/js/main.7c1d8197.js"
   ]
 }
