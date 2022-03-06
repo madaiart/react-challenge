@@ -1,0 +1,9 @@
+.key{
+    transition: all 0.17s;
+}
+
+.playing {
+    transform: scale(1.1);
+    border-color: greenyellow;
+    box-shadow: 0 0 10px goldenrod;
+}
