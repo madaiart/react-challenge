@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import A from "./Assets/clap.wav";
 import S from "./Assets/closedhat.wav";
 import D from "./Assets/crash.wav";
@@ -22,18 +22,18 @@ function playsound() {
     audio.play();
   });
 
-  // window.addEventListener("select", (event) => {
-  //   console.log(event);
-  //   const audio = document.querySelector(
-  //     `audio[data-key="${event.key.toLocaleUpperCase()}"]`
-  //   );
-  //   const key = document.querySelector(`div[data-key="${event.keyCode}"]`);
+  window.addEventListener("keydown", (event) => {
+    console.log(event);
+    const audio = document.querySelector(
+      `audio[data-key="${event.key.toLocaleUpperCase()}"]`
+    );
+    const key = document.querySelector(`div[data-key="${event.keyCode}"]`);
 
-  //   if (!audio) return;
-  //   key.classList.add("playing");
-  //   audio.currentTime = 0; // rewind to start;
-  //   audio.play();
-  // });
+    if (!audio) return;
+    key.classList.add("playing");
+    audio.currentTime = 0; // rewind to start;
+    audio.play();
+  });
 }
 
 const KeysMusic = () => {
